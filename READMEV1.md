@@ -251,4 +251,6 @@ Opa, meu nome é Tiago.
   
 </p>
 
-   
+  # 📄 Licença
+
+Este repositório está sob a licença [MIT](https://github.com/TRogato/Trogato/blob/main/LICENSE). Por favor, consulte o arquivo `LICENSE` para mais detalhes. 
