@@ -206,7 +206,7 @@ Minhas principais ferramentas de trabalho e estudo incluem:
 <p align="left">
   <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRogato&layout=compact&theme=radical" alt="Top Linguagens" />
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Top Linguagens" />
 </p>
 
 ---
