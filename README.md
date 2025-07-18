@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Tiago Rogato
 
-###🔛  Desenvolvedor FullStack | DevOps Enthusiast | Apaixonado por Automação e IA
+# 🔛  Desenvolvedor FullStack | DevOps Enthusiast | Apaixonado por Automação e IA
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TRogato/Trogato)
@@ -10,11 +10,11 @@
 
 ## 🚀 Sobre Mim
 
-Opa, meu nome é Tiago e sou um desenvolvedor FullStack com paixão por Linux, DevOps, Docker, Kubernetes, automação e Inteligência Artificial. Estou sempre em busca de novas ideias e desafios para aplicar e expandir meus conhecimentos.
+- :rocket: Opa, meu nome é Tiago e sou um desenvolvedor FullStack com paixão por Linux, DevOps, Docker, Kubernetes, automação e Inteligência Artificial. Estou sempre em busca de novas ideias e desafios para aplicar e expandir meus conhecimentos.
 
-Atualmente, trabalho com um Grupo de Empresas, onde aplico minhas habilidades para construir soluções robustas e eficientes.
+- :tv: Atualmente, trabalho com um Grupo de Empresas, onde aplico minhas habilidades para construir soluções robustas e eficientes.
 
-Além do código, sou um grande apreciador de cervejas artesanais, especialmente IPAs! Se você também é fã, podemos trocar uma ideia sobre o assunto! 😉
+- 💬 Além do código, sou um grande apreciador de cervejas artesanais, especialmente IPAs! Se você também é fã, podemos trocar uma ideia sobre o assunto! 😉
 
 ---
 
