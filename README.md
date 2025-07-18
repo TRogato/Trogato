@@ -118,6 +118,14 @@ Opa, meu nome é Tiago.
 />
 <img 
     align="left" 
+    alt="kali" 
+    title="kali"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" 
+/>
+<img 
+    align="left" 
     alt="grafana" 
     title="grafana"
     width="30px" 
@@ -163,6 +171,22 @@ Opa, meu nome é Tiago.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="linux" 
+    title="linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" 
+/>
+<img 
+    align="left" 
+    alt="postman" 
+    title="postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" 
 />
 
 <br/>
