@@ -196,6 +196,8 @@ Minhas principais ferramentas de trabalho e estudo incluem:
 />
 </p>
 <br>
+
+
 ---
 
 ## 📊 Estatísticas do GitHub
