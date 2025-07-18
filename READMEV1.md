@@ -1,4 +1,4 @@
-# 🔛 T. Rogato
+# 🔛 Tiago Rogato
 
 
 **`Desenvolvedor FullStack`**
@@ -226,10 +226,9 @@ Opa, meu nome é Tiago.
 />
 <br>
 <br>
-<p align="left">
+
 ### 📊 Estatísticas
-
-
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -237,7 +236,6 @@ Opa, meu nome é Tiago.
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
