@@ -215,6 +215,12 @@ Minhas principais ferramentas de trabalho e estudo incluem:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trogato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  alt="Top Linguagens" />
 </p>
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🤝 Como Contribuir
