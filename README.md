@@ -188,6 +188,30 @@ Opa, meu nome é Tiago.
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" 
 />
+<img 
+    align="left" 
+    alt="Prometheus" 
+    title="Prometheus"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pi" 
+    title="Pi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
+/>
 
 <br/>
 <br/>
