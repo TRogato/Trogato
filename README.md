@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Tiago Rogato
 
-### Desenvolvedor FullStack | DevOps Enthusiast | Apaixonado por Automação e IA
+###🔛  Desenvolvedor FullStack | DevOps Enthusiast | Apaixonado por Automação e IA
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TRogato/Trogato)
