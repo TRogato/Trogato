@@ -218,7 +218,7 @@ Minhas principais ferramentas de trabalho e estudo incluem:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trogato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-
+<br>
 ---
 
 ## 🤝 Como Contribuir
