@@ -185,7 +185,7 @@ Aqui você encontrará alguns dos meus projetos pessoais e estudos. Cada um refl
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
 />
 
----
+<br>
 
 ## 🛠️ Linguagens e Tecnologias
 
