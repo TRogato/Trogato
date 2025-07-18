@@ -22,6 +22,16 @@ Além do código, sou um grande apreciador de cervejas artesanais, especialmente
 
 Aqui você encontrará alguns dos meus projetos pessoais e estudos. Cada um reflete minha jornada de aprendizado e aplicação de diferentes tecnologias.
 
+## 🛠️ Linguagens e Tecnologias
+
+Minhas principais ferramentas de trabalho e estudo incluem:
+
+*   **Linguagens:** Python, JavaScript, C, C++, Shell, PHP, HTML, CSS, Java
+*   **DevOps:** Docker, Kubernetes, CI/CD
+*   **Cloud:** (Se você usa alguma, adicione aqui, ex: AWS, Azure, GCP)
+*   **Bancos de Dados:** (Se você usa algum, adicione aqui, ex: PostgreSQL, MySQL, MongoDB)
+*   **Outras Ferramentas:** Git, Linux
+
 
 
 <img 
@@ -184,20 +194,6 @@ Aqui você encontrará alguns dos meus projetos pessoais e estudos. Cada um refl
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
 />
-
-<br>
-
-## 🛠️ Linguagens e Tecnologias
-
-Minhas principais ferramentas de trabalho e estudo incluem:
-
-*   **Linguagens:** Python, JavaScript, C, C++, Shell, PHP, HTML, CSS, Java
-*   **DevOps:** Docker, Kubernetes, CI/CD
-*   **Cloud:** (Se você usa alguma, adicione aqui, ex: AWS, Azure, GCP)
-*   **Bancos de Dados:** (Se você usa algum, adicione aqui, ex: PostgreSQL, MySQL, MongoDB)
-*   **Outras Ferramentas:** Git, Linux
-
-*(Você pode usar ícones para cada tecnologia para um apelo visual maior)*
 
 ---
 
