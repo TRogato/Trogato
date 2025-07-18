@@ -213,8 +213,8 @@ Opa, meu nome é Tiago.
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
 />
 
-<br/>
-<br/>
+</br>
+</br>
 
 ### 📊 Estatísticas
 
