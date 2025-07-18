@@ -224,7 +224,8 @@ Opa, meu nome é Tiago.
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
 />
-
+<br>
+<br>
 <p align="left">
 ### 📊 Estatísticas
 
