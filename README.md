@@ -215,6 +215,8 @@ Opa, meu nome é Tiago.
 
 </br>
 </br>
+---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TRogato&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/TRogato/github-readme-activity-graph)
 
 ### 📊 Estatísticas
 
