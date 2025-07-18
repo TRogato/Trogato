@@ -210,8 +210,6 @@ Minhas principais ferramentas de trabalho e estudo incluem:
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
      alt="Estatísticas do GitHub" />
-
-
   <img 
     alt="GitHub Stats" 
     height="200" 
