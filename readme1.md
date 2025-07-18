@@ -226,7 +226,7 @@ Toda contribuição é bem-vinda.
 Você pode me encontrar e se conectar comigo através do:
 
 *   **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
-*   **Email:** [seu.email@example.com](mailto:t.rogato@gmail.com)
+*   **Email:** [t.rogato@gmail.com](mailto:t.rogato@gmail.com)
 
 ---
 
