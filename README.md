@@ -118,11 +118,11 @@ Opa, meu nome é Tiago.
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="grafana" 
+    title="grafana"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" 
 />
 <img 
     align="left" 
