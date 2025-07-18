@@ -32,7 +32,7 @@ Minhas principais ferramentas de trabalho e estudo incluem:
 *   **Bancos de Dados:** (Se você usa algum, adicione aqui, ex: PostgreSQL, MySQL, MongoDB)
 *   **Outras Ferramentas:** Git, Linux
 
-
+<p align="left">
 
 <img 
     align="left" 
@@ -194,6 +194,7 @@ Minhas principais ferramentas de trabalho e estudo incluem:
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
 />
+</p>
 <br>
 ---
 
