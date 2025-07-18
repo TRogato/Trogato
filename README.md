@@ -1,68 +1,38 @@
-# 🔛 T. Rogato
+# 👋 Olá! Eu sou Tiago Rogato
 
+### Desenvolvedor FullStack | DevOps Enthusiast | Apaixonado por Automação e IA
 
-**`Desenvolvedor FullStack`**
-
-### :sound: Seja muito bem-vindo. 
-
-Opa, meu nome é Tiago. 
-
-- :rocket: Atualmente trabalho com um Grupo de Empresas.
-
-- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação, AI e muito mais. obs: Sempre buscando novas ideias. 
-
-- 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
-<br>
-<!--<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tiago-rogato-da-silveira-095563b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-rogato-da-silveira-095563b6?trk=profile-badge">LinkedIn - Tiago Rogato da Silveira</a></div>-->
-
-
-<p align="left">
-   <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>-->
-    <!--Redes Sociais-->
-
-<a href="https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-
-<a href="https://www.instagram.com/tiago_rogato/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-
-<a href = "mailto:t.rogato@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmaillogoColor=white" target="_blank">
-  </a>
-    <a href="https://github.com/Trogato?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Trogato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TRogato/Trogato)
+[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](t.rogato@gmail.com)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre Mim
+
+Opa, meu nome é Tiago e sou um desenvolvedor FullStack com paixão por Linux, DevOps, Docker, Kubernetes, automação e Inteligência Artificial. Estou sempre em busca de novas ideias e desafios para aplicar e expandir meus conhecimentos.
+
+Atualmente, trabalho com um Grupo de Empresas, onde aplico minhas habilidades para construir soluções robustas e eficientes.
+
+Além do código, sou um grande apreciador de cervejas artesanais, especialmente IPAs! Se você também é fã, podemos trocar uma ideia sobre o assunto! 😉
+
+---
+
+## 💡 Meus Projetos
+
+Aqui você encontrará alguns dos meus projetos pessoais e estudos. Cada um reflete minha jornada de aprendizado e aplicação de diferentes tecnologias.
+
+## 🛠️ Linguagens e Tecnologias
+
+Minhas principais ferramentas de trabalho e estudo incluem:
+
+*   **Linguagens:** Python, JavaScript, C, C++, Shell, PHP, HTML, CSS, Java
+*   **DevOps:** Docker, Kubernetes, CI/CD
+*   **Cloud:** (Se você usa alguma, adicione aqui, ex: AWS, Azure, GCP)
+*   **Bancos de Dados:** (Se você usa algum, adicione aqui, ex: PostgreSQL, MySQL, MongoDB)
+*   **Outras Ferramentas:** Git, Linux
+
+
 
 <img 
     align="left" 
@@ -224,32 +194,42 @@ Opa, meu nome é Tiago.
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" 
 />
+<br>
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-### 📊 Estatísticas
-
-
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trogato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-</picture>
-  
+     alt="Estatísticas do GitHub" />
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trogato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  alt="Top Linguagens" />
 </p>
 
-   
+---
+
+## 🤝 Como Contribuir
+
+Se você tiver sugestões, ideias ou quiser contribuir com algum dos projetos, sinta-se à vontade para abrir uma *issue* ou *pull request*! 
+Toda contribuição é bem-vinda.
+
+---
+
+## ✉️ Contato
+
+Você pode me encontrar e se conectar comigo através do:
+
+*   **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
+*   **Email:** [t.rogato@gmail.com](mailto:t.rogato@gmail.com)
+
+---
+
+## 📄 Licença
+
+Este repositório está sob a licença [MIT](https://github.com/TRogato/Trogato/blob/main/LICENSE). Por favor, consulte o arquivo `LICENSE` para mais detalhes.
