@@ -110,11 +110,11 @@ Opa, meu nome é Tiago.
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="debian" 
+    title="debian"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" 
 />
 <img 
     align="left" 
