@@ -228,4 +228,4 @@ Você pode me encontrar e se conectar comigo através do:
 
 ## 📄 Licença
 
-Este repositório está sob a licença [Nome da Licença](LINK_PARA_LICENCA_SE_HOUVER). Por favor, consulte o arquivo `LICENSE` para mais detalhes.
+Este repositório está sob a licença [MIT](https://github.com/TRogato/Trogato/blob/main/LICENSE). Por favor, consulte o arquivo `LICENSE` para mais detalhes.
