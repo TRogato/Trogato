@@ -39,6 +39,18 @@ Opa, meu nome é Tiago.
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>-->
+    <!--Redes Sociais-->
+<div>
+  <a href="https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://instagram.com/aj_aecio" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+<a href = "mailto:ajaeciojosemail@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmaillogoColor=white" target="_blank">
+  </a>
     <a href="https://github.com/Trogato?tab=followers">
         <img 
             alt="Seguidores" 
@@ -218,7 +230,7 @@ Opa, meu nome é Tiago.
 
 
 ### 📊 Estatísticas
-<br>
+
 
 <p>
   <img 
