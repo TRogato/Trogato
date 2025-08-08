@@ -28,8 +28,8 @@ Minhas principais ferramentas de trabalho e estudo incluem:
 
 *   **Linguagens:** Python, JavaScript, C, C++, Shell, PHP, HTML, CSS, Java
 *   **DevOps:** Docker, Kubernetes, CI/CD
-*   **Cloud:** (Se você usa alguma, adicione aqui, ex: AWS, Azure, GCP)
-*   **Bancos de Dados:** (Se você usa algum, adicione aqui, ex: PostgreSQL, MySQL, MongoDB)
+*   **Cloud:** AWS, Azure, GCP
+*   **Bancos de Dados:** PostgreSQL, MySQL, MongoDB)
 *   **Outras Ferramentas:** Git, Linux
 
 <p align="left">
@@ -242,3 +242,4 @@ Você pode me encontrar e se conectar comigo através do:
 ## 📄 Licença
 
 Este repositório está sob a licença [MIT](https://github.com/TRogato/Trogato/blob/main/LICENSE). Por favor, consulte o arquivo `LICENSE` para mais detalhes.
+
